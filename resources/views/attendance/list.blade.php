@@ -18,7 +18,7 @@
             <tr>
                 <th scope="row">1</th>
                 <td>{{$s->id}}</td>
-                <td>{{$s->slotId}}</td>
+                <td>{{$s->time}}</td>
                 <td>{{$s->subjectId}}</td>
                 <td>{{$s->classId}}</td>
                 <td></td>

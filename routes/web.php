@@ -14,4 +14,4 @@
 Route::get('/', function () {
     return view('welcome');
 });
-Route::get('/attendance', 'AttendanceController@index');
+Route::get('/slots', 'AttendanceController@index');
